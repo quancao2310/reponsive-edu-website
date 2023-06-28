@@ -22,12 +22,12 @@ This is an online educational website with a home page, an information page, a c
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](https://github.com/quancao2310/responsive-edu-website/assets/99309814/94f5c40a-fd97-48c5-9991-3bb1163613a0)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/quancao2310/reponsive-edu-website
+- Live Site URL: https://quancao2310.github.io/responsive-edu-website/
 
 ## My process
 
@@ -89,7 +89,7 @@ let swiper = new Swiper(".mySwiper", {
 ### Useful resources
 Apart from the project link, these are some useful resourses to help complete the project:
 
-- [W3School](https://www.w3schools.com/)
+- [W3Schools](https://www.w3schools.com/)
 
 ## Acknowledgments
 
